@@ -1,0 +1,26 @@
+#MyApps
+{
+    background-color: cadetblue;
+    height: 800px;
+    width: 100%;
+}
+#MyGames
+{
+    background-color: darkgoldenrod;
+    width: 100%;
+}
+#MyChatBot
+{
+    background-color: mediumspringgreen;
+    height: 800px;
+    width: 100%;
+}
+h1
+{
+    font-family: inherit;
+    font-size: 50px;
+}
+img:hover
+{
+    transform: scale(0.9);
+}
